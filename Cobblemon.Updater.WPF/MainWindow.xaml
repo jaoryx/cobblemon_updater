@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Cobblemon.Updater.WPF"
         mc:Ignorable="d"
-        Title="Cobblemon Updater" Height="334" Width="426" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" ResizeMode="NoResize">
+        Title="Cobblemon Updater" Height="433" Width="761" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" ResizeMode="NoResize">
     <Window.Resources>
         <Style x:Key="FocusVisual">
             <Setter Property="Control.Template">
@@ -64,10 +64,13 @@
         </Style>
     </Window.Resources>
     <Grid Background="#FF282E3C">
-        <Button x:Name="btnInstallModpack" Style="{DynamicResource RoundedButton}" Content="Install Modpack" HorizontalAlignment="Left" Margin="21,22,0,0" VerticalAlignment="Top" Height="32" Width="111" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnInstallModpack_Click"/>
-        <Button x:Name="btnInstallMods" Style="{DynamicResource RoundedButton}" Content="Update Modpack" HorizontalAlignment="Left" Margin="151,22,0,0" VerticalAlignment="Top" Height="32" Width="111" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnInstallMods_Click"/>
-        <Button x:Name="btnDeleteModpack" Style="{DynamicResource RoundedButton}" Content="Delete Modpack" HorizontalAlignment="Left" Margin="280,22,0,0" VerticalAlignment="Top" Height="32" Width="111" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnDeleteModpack_Click"/>
-        <Label x:Name="lblMadeBy" Content="Made by: Jaoryx" Margin="309,267,0,0" Foreground="#FFCDCFD2" HorizontalAlignment="Left" Width="100" Height="26" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtFeedback" IsEnabled="False" TextWrapping="Wrap" Text="" Margin="22,73,17,49" Background="{x:Null}" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2"/>
+        <Button x:Name="btnInstallModpack" Style="{DynamicResource RoundedButton}" Content="Install Modpack" Margin="21,22,0,0" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnInstallModpack_Click" HorizontalAlignment="Left" Width="111" Height="32" VerticalAlignment="Top"/>
+        <Button x:Name="btnInstallMods" Style="{DynamicResource RoundedButton}" Content="Update Modpack" Margin="145,22,0,0" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnInstallMods_Click" HorizontalAlignment="Left" Width="111" Height="32" VerticalAlignment="Top"/>
+        <Button x:Name="btnDeleteModpack" Style="{DynamicResource RoundedButton}" Content="Delete Modpack" HorizontalAlignment="Left" Margin="269,22,0,0" VerticalAlignment="Top" Height="32" Width="110" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnDeleteModpack_Click"/>
+        <Button x:Name="btnInstallResources" Style="{DynamicResource RoundedButton}" Content="Install Resources" Margin="516,22,0,0" Background="#FF1E2430" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" RenderTransformOrigin="1,1" MouseEnter="MouseHoverButton" MouseLeave="MouseHoverButton" Click="BtnInstallMods_Click" HorizontalAlignment="Left" Width="111" Height="32" VerticalAlignment="Top"/>
+        <Label x:Name="lblMadeBy" Content="Made by: Jaoryx" Margin="0,0,1,-5" Foreground="#FFCDCFD2" Height="35" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="100"/>
+        <TextBox x:Name="txtFeedback" IsReadOnly="True" TextWrapping="Wrap" Text="" Margin="21,69,0,36" Background="{x:Null}" Foreground="#FFCDCFD2" BorderBrush="#FFCDCFD2" HorizontalAlignment="Left" Width="358"/>
+        <ListBox x:Name="lstInstallable" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="407,69,0,36" BorderBrush="#FFCDCFD2" Foreground="#FFCDCFD2" Background="{x:Null}" HorizontalAlignment="Left" Width="149"/>
+        <ListBox x:Name="lstToInstall" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="583,69,0,36" BorderBrush="#FFCDCFD2" Foreground="#FFCDCFD2" Background="{x:Null}" HorizontalAlignment="Left" Width="149"/>
     </Grid>
 </Window>

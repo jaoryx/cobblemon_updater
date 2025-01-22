@@ -24,3 +24,4 @@ C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.WPF\obj\Release\net8
 C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.WPF\obj\Release\net8.0-windows\Cobblemon.Updater.WPF.pdb
 C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.WPF\obj\Release\net8.0-windows\Cobblemon.Updater.WPF.genruntimeconfig.cache
 C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.WPF\obj\Release\net8.0-windows\ref\Cobblemon.Updater.WPF.dll
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.WPF\obj\Release\net8.0-windows\Cobblemon.Updater.WPF.sourcelink.json
