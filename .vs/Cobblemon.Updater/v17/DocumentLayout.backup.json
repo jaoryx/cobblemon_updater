@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaoryx\\Desktop\\Cobblemon.Updater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1104EE1-9FC6-4C90-91FB-99F0B7A65166}|Cobblemon.Updater.WPF\\Cobblemon.Updater.WPF.csproj|c:\\users\\jaoryx\\desktop\\cobblemon.updater\\cobblemon.updater.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1104EE1-9FC6-4C90-91FB-99F0B7A65166}|Cobblemon.Updater.WPF\\Cobblemon.Updater.WPF.csproj|solutionrelative:cobblemon.updater.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1104EE1-9FC6-4C90-91FB-99F0B7A65166}|Cobblemon.Updater.WPF\\Cobblemon.Updater.WPF.csproj|c:\\users\\jaoryx\\desktop\\cobblemon.updater\\cobblemon.updater.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1104EE1-9FC6-4C90-91FB-99F0B7A65166}|Cobblemon.Updater.WPF\\Cobblemon.Updater.WPF.csproj|solutionrelative:cobblemon.updater.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jaoryx\\Desktop\\Cobblemon.Updater\\Cobblemon.Updater.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cobblemon.Updater.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jaoryx\\Desktop\\Cobblemon.Updater\\Cobblemon.Updater.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Cobblemon.Updater.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T20:16:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jaoryx\\Desktop\\Cobblemon.Updater\\Cobblemon.Updater.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cobblemon.Updater.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jaoryx\\Desktop\\Cobblemon.Updater\\Cobblemon.Updater.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cobblemon.Updater.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:47:23.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\bin\Debug\net8.0\Cobblemon.Updater.Core.deps.json
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\bin\Debug\net8.0\Cobblemon.Updater.Core.dll
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\bin\Debug\net8.0\Cobblemon.Updater.Core.pdb
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.AssemblyInfoInputs.cache
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.AssemblyInfo.cs
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.dll
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\refint\Cobblemon.Updater.Core.dll
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.pdb
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\ref\Cobblemon.Updater.Core.dll
+C:\Users\Jaoryx\Desktop\Cobblemon.Updater\Cobblemon.Updater.Core\obj\Debug\net8.0\Cobblemon.Updater.Core.csproj.AssemblyReference.cache
